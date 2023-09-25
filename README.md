@@ -2,7 +2,7 @@
 
 - Clone this Repo using this command.
 ```shell
-git clone git@github.com:Ehteesham/Password-Generator.git
+git clone git@github.com:Ehteesham/kivy_calculator.git
 ```
 
 - Then run this command for installing all the modules
